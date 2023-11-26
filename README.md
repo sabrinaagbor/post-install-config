@@ -49,3 +49,11 @@ In this step, I added a department titled as 'System Administrators' which will 
 Here, I've created a helpdesk agent to facilitate the support of ticket resolution.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/CI4Pgq2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+In this step, I've created a general helpdesk topic titled as 'Personal Computer Issues' among other topics that users can select when submitting a ticket.
+</p>
+<br />
+
