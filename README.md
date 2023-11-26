@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Allowing any user to create tickets through OSTicket.
 - Configuration of helpdesk topics.
 
-<h2>Configuration Steps</h2>
+<h2>Key Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/drJ6Wnb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
